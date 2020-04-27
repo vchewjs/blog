@@ -2,12 +2,9 @@
 
 ### 目录
  [1.起步](#起步)
- [安装Vue-cli](#全局安装-vue-cli)
- [创建webpack模板](#创建一个基于-webpack-模板的新项目)
- [安装依赖](#安装依赖)
-  &nbsp; &nbsp; [ 1.1用户注册](#1.1)  
-&nbsp; &nbsp;  [ 1.2用户登录](#1.2)  
- &nbsp; &nbsp; [ 1.3用户退出](#1.3)  
+ &nbsp; &nbsp; [安装Vue-cli](#全局安装-vue-cli)
+ &nbsp; &nbsp; [创建webpack模板](#创建一个基于-webpack-模板的新项目)
+  &nbsp; &nbsp;[安装依赖](#安装依赖)
 
 ### 起步
 vue官方的脚手架
